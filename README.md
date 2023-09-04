@@ -1,6 +1,6 @@
 # practicaFlex
 
-- El objetivo de este ejercicio es crear una etiqueta div que contenga un título h2 y una imagen,y luego centrar los elementos en el medio de la página web. 
+El objetivo de este ejercicio es crear una etiqueta div que contenga un título h2 y una imagen,y luego centrar los elementos en el medio de la página web. 
 A continuación, se detallan los pasos que debes seguir:
 
 ##### 1.Después del div con clase "container" crearemos otro div con la clase "divPrincipal" que contenga:
